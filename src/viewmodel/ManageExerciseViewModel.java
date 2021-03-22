@@ -1,7 +1,6 @@
 package viewmodel;
 
 import javafx.beans.property.*;
-import model.Exercise;
 import model.Model;
 
 public class ManageExerciseViewModel
